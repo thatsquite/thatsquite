@@ -6,7 +6,7 @@ I build digital products, websites, automation workflows and AI-powered solution
 
 Current interests:
 - Web development with Nuxt and Vue
-- Drupal, WordPress and Storyblok ecosystems
+- Decoupled CMS ecosystems
 - AI-assisted workflows
 - SEO and analytics
 - UX and information architecture
